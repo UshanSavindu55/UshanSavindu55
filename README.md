@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ushan Savindu
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7DF1E&background=00000000&width=450&lines=Hi,+I'm+Ushan)
 
 ## 👨‍💻 About Me
 - 🎓 Currently an undergraduate student studying **Information Systems** at University Of Colombo School Of Computing.
