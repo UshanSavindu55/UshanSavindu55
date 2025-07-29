@@ -1,23 +1,25 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7DF1E&background=00000000&width=450&lines=Hi,+I'm+Ushan)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan)
 
 ## 👨‍💻 About Me
 - 🎓 Currently an undergraduate student studying **Information Systems** at University Of Colombo School Of Computing.
-- 🔭 I’m working on exciting projects related to software development.
 - 🌱 Always eager to learn new technologies and improve my skills.
 - 📫 How to reach me: [Email](mailto:ushansavindu666@gmail.com) | [LinkedIn](www.linkedin.com/in/savindu-ushan-516851259)
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 📈 GitHub Stats
-![Ushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ushan&show_icons=true&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+## 📊 GitHub Activity
+![Ushan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ushan&theme=github)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/savindu-ushan-516851259)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ushan)
