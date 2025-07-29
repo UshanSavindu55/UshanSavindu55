@@ -1,5 +1,5 @@
-<div style="display: inline-block; padding: 10px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
+<div style="display: inline-block; padding: 20px 20px 10px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=48&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
 </div>
 
 ---
