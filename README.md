@@ -1,4 +1,4 @@
-<div style="display: inline-block; padding: 25px 20px 15px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="display: inline-block; padding: 40px 20px 15px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
 </div>
 
@@ -7,14 +7,17 @@
 ## 👨‍💻 About Me
 - 🎓 Currently an undergraduate student studying **Information Systems** at University Of Colombo School Of Computing.
 - 🌱 Always eager to learn new technologies and improve my skills.
+- 💻 Passionate about software development, ui ux development, problem-solving, and building efficient, user-friendly applications.
+- 🎯 Interested in full-stack development, database management, and cloud computing.
+- 🤝 Strong team player with good communication skills, keen on collaborating in diverse environments.
 - 📫 How to reach me: [Email](mailto:ushansavindu666@gmail.com) | [LinkedIn](https://www.linkedin.com/in/savindu-ushan-516851259)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,react,postgres,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,react,postgres,mysql,mongodb,express,nodejs,python" alt="Tech Stack" />
 </p>
 
 ---
