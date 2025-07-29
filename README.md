@@ -1,6 +1,5 @@
-<div style="display: inline-block; padding: 40px 20px 15px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan)
+
 
 ---
 
