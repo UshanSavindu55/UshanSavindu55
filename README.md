@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan)
+<div style="display: inline-block; padding: 10px 20px; border: 3px solid #007396; border-radius: 15px; background: #e0f0ff;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 About Me
 - 🎓 Currently an undergraduate student studying **Information Systems** at University Of Colombo School Of Computing.
