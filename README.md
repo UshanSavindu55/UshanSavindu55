@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan)
-
-
+<div style="padding: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan" alt="Typing SVG" />
+</div>
 ---
 
 ## 👨‍💻 About Me
