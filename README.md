@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## 📊 GitHub Activity
-![Ushan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ushan&theme=github)
+## 📅 GitHub Contribution Calendar
+
+![Ushan's Contribution Calendar](https://github-readme-calendar.vercel.app/api?username=ushan&theme=github)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ushan)
