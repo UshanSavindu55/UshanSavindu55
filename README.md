@@ -1,11 +1,9 @@
-<div style="padding: 20px;">
+<div style="padding: 0;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=Hi,+I'm+Ushan"
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=56&pause=1000&color=007396&background=00000000&width=600&lines=%20;%20Hi,+I'm+Ushan"
     alt="Typing SVG"
-    style="margin-top: 10px;"
   />
 </div>
-
 
 ---
 
